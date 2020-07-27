@@ -77,6 +77,14 @@ int main() {
     exercice(1, 100, 11);
     bonus2();
     activity1();
+    int bi_array[3][3];
+    for (int x = 0; x < 3; x++)
+    {
+        for (int y = 0; y < 3; y++)
+        {
+            std::cout <<"SUM of the key and the value : [" << x << "]" << "[" << y << "] = "<< x+y << std::endl;
+        }
+    }
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
