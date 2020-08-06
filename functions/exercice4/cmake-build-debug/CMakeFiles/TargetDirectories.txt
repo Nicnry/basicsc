@@ -1,0 +1,3 @@
+/Users/nawakine/development/c++/basicsc/functions/exercice4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nawakine/development/c++/basicsc/functions/exercice4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nawakine/development/c++/basicsc/functions/exercice4/cmake-build-debug/CMakeFiles/exercice4.dir
